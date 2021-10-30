@@ -1,3 +1,9 @@
+
+# Write a python program that takes two numbers R and C as input and prints R * C 
+# rectabgle of increasing numbers from 1 to C per row
+
+
+
 R = int(input())
 C = int(input())
 
